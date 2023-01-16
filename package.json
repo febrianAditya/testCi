@@ -1,0 +1,24 @@
+{
+  "name": "testci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febrianAditya/testCi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febrianAditya/testCi/issues"
+  },
+  "homepage": "https://github.com/febrianAditya/testCi#readme",
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
+}
